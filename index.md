@@ -1,5 +1,5 @@
 ---
-title: Serpentina Arts
+title: "Serpentina Arts"
 permalink: /index/
 layout: "default"
 ---
