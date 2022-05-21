@@ -1,3 +1,8 @@
+---
+title: Project Overview
+permalink: /project-overview/
+layout: page
+---
 # Project Overview
 
 The Serpentina Arts community's goal is to give under-represented **Latinx Artists** a platform to exhibit their artwork. My Writing with Digital Technology class took on the task of writing artist bios for any Serpentina Arts member who wanted one. 

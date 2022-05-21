@@ -1,3 +1,8 @@
+---
+title: Interview Process
+permalink: /interview-process/
+layout: page
+---
 # Interview Process
 
 The following is the process by which we conducted our interview for the bio.
