@@ -1,6 +1,5 @@
 ---
 title: Project Overview
-permalink: /project-overview/
 layout: "page"
 ---
 # Project Overview

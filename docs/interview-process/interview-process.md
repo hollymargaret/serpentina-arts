@@ -1,6 +1,5 @@
 ---
 title: Interview Process
-permalink: /interview-process/
 layout: "page"
 ---
 # Interview Process

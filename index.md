@@ -1,6 +1,5 @@
 ---
 title: "Serpentina Arts"
-permalink: /index/
 layout: "default"
 ---
 As a part of my Writing with Digital Technologies class at the University of Minnesota, Twin Cities, we worked with the Serpentina Arts community, whose goal is to give Latinx artists a platform for exhibition and to create a unique an artist bio for each artist. The artist can use the artist's bio in any way they see fit. Here is a link to the Serpentina Artist Community page.
