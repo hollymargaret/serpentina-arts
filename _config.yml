@@ -1,9 +1,1 @@
 theme: jekyll-theme-slate
-site_name: Holly Lesmeister
-nav:
-  - Home: index.md
-  - Project Overview: project-overview.md
-  - Interview Process: interview-process.md
-  - Drafting the Biography: drafting-bio.md
-
-img: /docs/online-interview.png
