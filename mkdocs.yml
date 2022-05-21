@@ -1,0 +1,62 @@
+site_name: writing w/ digital tech
+repo_url: https://github.umn.edu/dcard/writingwithdigitaltech
+repo_name: dcard/writingwithdigitaltech
+edit_uri: edit/master/docs/
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  font:
+      text: Open Sans
+      code: Roboto Mono
+  icon:
+    repo: fontawesome/brands/git-alt
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+
+
+plugins:
+  - search
+  - git-revision-date
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - pymdownx.snippets
+  - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.tabbed:
+      alternate_style: true
+
+
+nav:
+  - Home: index.md
+  - Lightweight Docs with Markdown:
+    - docs-w-mkdocs/index.md
+    - Getting Started: docs-w-mkdocs/installing-py-pip.md
+    - Publishing a mkdocs site with Github Pages: docs-w-mkdocs/publishing.md
+  - Collaboration and Versioning with Git:
+    - collaboration-and-versioning/index.md
+    - About: collaboration-and-versioning/about.md
+    - Example workflow: collaboration-and-versioning/example-workflow.md
