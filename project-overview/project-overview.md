@@ -1,7 +1,7 @@
 ---
 title: Project Overview
 permalink: /project-overview/
-layout: page
+layout: "page"
 ---
 # Project Overview
 

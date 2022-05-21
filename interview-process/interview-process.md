@@ -1,7 +1,7 @@
 ---
 title: Interview Process
 permalink: /interview-process/
-layout: page
+layout: "page"
 ---
 # Interview Process
 
