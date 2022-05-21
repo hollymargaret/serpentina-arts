@@ -1,3 +1,2 @@
-# serpentina-arts
+# Serpentina Arts
 Artist Bio Project
-Hello
