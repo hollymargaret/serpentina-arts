@@ -1,6 +1,6 @@
 ---
 title: "Serpentina Arts"
-permalink: /
+permalink: /interview-process.md
 layout: default
 ---
 # Hello
