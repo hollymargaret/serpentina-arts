@@ -1,6 +1,6 @@
 ---
 title: Project Overview
-layout: "page"
+layout: page
 ---
 # Project Overview
 
