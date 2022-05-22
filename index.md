@@ -5,7 +5,7 @@ layout: "default"
 As a part of my **Writing with Digital Technologies** class at the University of Minnesota, Twin Cities, we worked with the **Serpentina Arts** community, whose goal is to give Latinx artists a platform for exhibition and to create a unique an artist bio for each artist. The artist can use the artist's bio in any way they see fit. [Here is a link to the Serpentina Artist Community page.](https://www.facebook.com/Serpentina-Arts-123709977640263/)
 This site explains how we created and delivered a finished artist biography in three steps:
 
--[Project overview](https://github.com/hollymargaret/serpentina-arts/docs/project-overview/project-overview.md)  
+-[Project overview](/hollymargaret/serpentina-arts/docs/project-overview/project-overview.md)  
 -[Interview process](interview-proceess.md)  
 -[Drafting bio](drafting-bio.md)  
 
