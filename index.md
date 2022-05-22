@@ -7,7 +7,7 @@ This site explains how we created and delivered a finished artist biography in t
 
 -[Project overview](https://github.com/hollymargaret/serpentina-arts/blob/docs/project-overview/project-overview.md)  
 -[Interview process](interview-proceess.md)  
--[Drafting bio](drafting-bio.md)"  
+-[Drafting bio](drafting-bio.md)  
 
 
 ## About Serpentina Arts
